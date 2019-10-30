@@ -1,7 +1,7 @@
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 700px;
+    width: 500px;
     margin: 20px auto;
   }
 }
@@ -66,7 +66,6 @@ a {
 
 a:hover {
   color: grey;
-  text-decoration: underline;
 }
 
 img {
@@ -98,4 +97,8 @@ img {
   padding: 15px;
   margin: 10px;
   border-radius: 3px;
+}
+
+.btn-orange > a:hover {
+  color: rgb(240, 240, 240);
 }
