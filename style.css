@@ -1,7 +1,7 @@
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 500px;
+    width: 600px;
     margin: 20px auto;
   }
 }
@@ -20,10 +20,10 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
   /* For a screen < 400px, this CSS will be read */
   .container {
-    width: 360px;
+    width: 280px;
     margin: 10px auto;
   }
 }
