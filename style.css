@@ -100,6 +100,6 @@ img {
   border-radius: 3px;
 }
 
-.btn-orange > a:hover {
-  color: yellow;
+.btn-orange:hover {
+  background: #f0aa41;
 }
