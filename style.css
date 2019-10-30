@@ -48,15 +48,19 @@ h1 {
 h2 {
   color: #0d114a;
   font-size: 25px;
-  font-weight: lighter;
   font-weight: 500;
 }
 
 h3 {
   color: #2107e6;
   font-size: 20px;
-  font-weight: lighter;
   font-weight: 500;
+}
+
+h4 {
+  color: #d45506;
+  font-size: 20px;
+  font-weight: lighter;
 }
 
 a {
@@ -79,6 +83,15 @@ img {
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
   text-align: center;
   padding: 30px;
+  margin: 10px 0;
+}
+
+.card-social-links {
+  background: rgb(40, 40, 40);
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+  padding: 5px;
   margin: 10px 0;
 }
 
