@@ -66,6 +66,7 @@ a {
 
 a:hover {
   color: grey;
+  text-decoration: none;
 }
 
 img {
@@ -100,5 +101,5 @@ img {
 }
 
 .btn-orange > a:hover {
-  color: rgb(240, 240, 240);
+  color: yellow;
 }
